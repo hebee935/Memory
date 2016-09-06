@@ -15,7 +15,7 @@ public class Splash_Activity extends Activity{
 
         Handler hd = new Handler();
         hd.postDelayed(new Runnable() {
-햐
+
             @Override
             public void run() {
                 finish();       // 3 초후 이미지를 닫아버림
