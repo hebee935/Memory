@@ -88,6 +88,7 @@ public class MainActivity extends Activity implements AdapterView.OnItemClickLis
         }
     }
 
+
     private class Sample {
         int titleResId;
         int descriptionResId;

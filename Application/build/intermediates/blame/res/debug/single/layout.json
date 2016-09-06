@@ -92,6 +92,10 @@
         "source": "/Users/appcreate40/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/notification_template_big_media_narrow.xml"
     },
     {
+        "merged": "/Users/appcreate40/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/layout/fragment_v1.xml",
+        "source": "/Users/appcreate40/AndroidStudioProjects/Memory/Application/src/main/res/layout/fragment_v1.xml"
+    },
+    {
         "merged": "/Users/appcreate40/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/layout/sample_dashboard_item.xml",
         "source": "/Users/appcreate40/AndroidStudioProjects/Memory/Application/src/main/res/layout/sample_dashboard_item.xml"
     },
@@ -128,6 +132,10 @@
         "source": "/Users/appcreate40/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/notification_template_part_chronometer.xml"
     },
     {
+        "merged": "/Users/appcreate40/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/layout/fragment_v2.xml",
+        "source": "/Users/appcreate40/AndroidStudioProjects/Memory/Application/src/main/res/layout/fragment_v2.xml"
+    },
+    {
         "merged": "/Users/appcreate40/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
         "source": "/Users/appcreate40/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_activity_chooser_view.xml"
     },
@@ -138,6 +146,10 @@
     {
         "merged": "/Users/appcreate40/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
         "source": "/Users/appcreate40/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/appcreate40/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/layout/fragment_v3.xml",
+        "source": "/Users/appcreate40/AndroidStudioProjects/Memory/Application/src/main/res/layout/fragment_v3.xml"
     },
     {
         "merged": "/Users/appcreate40/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
