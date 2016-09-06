@@ -1,0 +1,1 @@
+CHANGED,/Users/appcreate40/AndroidStudioProjects/Memory/Application/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawer/Splash_Activity.class

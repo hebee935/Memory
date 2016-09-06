@@ -36,6 +36,10 @@
         "source": "/Users/appcreate40/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_search_view.xml"
     },
     {
+        "merged": "/Users/appcreate40/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/layout/splash_activity.xml",
+        "source": "/Users/appcreate40/AndroidStudioProjects/Memory/Application/src/main/res/layout/splash_activity.xml"
+    },
+    {
         "merged": "/Users/appcreate40/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
         "source": "/Users/appcreate40/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/select_dialog_singlechoice_material.xml"
     },

@@ -5,85 +5,8 @@
         jar="/Users/appcreate40/AndroidStudioProjects/Memory/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         revision="24.0.1"
-        sha1="71255bae7df76886d5b6132597c72c07f57f23a4">
+        sha1="21f1068273447c0d6307d48d14c92fd7abeb74cb">
         <dex dex="/Users/appcreate40/AndroidStudioProjects/Memory/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_dabe44421974ef7bb44c6377a160b1230a034b49/classes.dex" />
-    </item>
-    <item
-        jar="/Users/appcreate40/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.0.0/jars/classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="8dd49930e4f9dde1a42d37e362b9fea8b1b69c0d">
-        <dex dex="/Users/appcreate40/AndroidStudioProjects/Memory/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.0.0_9c94d8b3aa04aa86608dce7341523f340ec7e701/classes.dex" />
-    </item>
-    <item
-        jar="/Users/appcreate40/AndroidStudioProjects/Memory/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="bd552520ae11b0de0a7e29dfbc38689e714208a7">
-        <dex dex="/Users/appcreate40/AndroidStudioProjects/Memory/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1c6bfda2cd4710e62b7c8686cd11596815226942/classes.dex" />
-    </item>
-    <item
-        jar="/Users/appcreate40/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
-        <dex dex="/Users/appcreate40/AndroidStudioProjects/Memory/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_e35cb848a275036e89fd815ab3d84ab0c8c6c0b3/classes.dex" />
-    </item>
-    <item
-        jar="/Users/appcreate40/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
-        <dex dex="/Users/appcreate40/AndroidStudioProjects/Memory/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_e088d7d59634ab78bbbe2fff23abb9e42f7c821b/classes.dex" />
-    </item>
-    <item
-        jar="/Users/appcreate40/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
-        <dex dex="/Users/appcreate40/AndroidStudioProjects/Memory/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_529274a47316cbe6aaa38e0e545b39b0ffbde916/classes.dex" />
-    </item>
-    <item
-        jar="/Users/appcreate40/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
-        <dex dex="/Users/appcreate40/AndroidStudioProjects/Memory/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_352a2c960225a4dcdd184e9c4600440f987dfc10/classes.dex" />
-    </item>
-    <item
-        jar="/Users/appcreate40/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/support-v13/24.0.0/jars/libs/internal_impl-24.0.0.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="61fd2644ca586288d0e733377d12b5f6da18c4ca">
-        <dex dex="/Users/appcreate40/AndroidStudioProjects/Memory/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_31f5172c3d524acc363534876bbfc37157171bc5/classes.dex" />
-    </item>
-    <item
-        jar="/Users/appcreate40/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
-        <dex dex="/Users/appcreate40/AndroidStudioProjects/Memory/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_29b37bad761ba32a8ece4cc2beb69bb4dd4afb17/classes.dex" />
-    </item>
-    <item
-        jar="/Users/appcreate40/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.0.0/2943c74db6d4346ab8c6531adac91fa05c137c40/support-annotations-24.0.0.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
-        <dex dex="/Users/appcreate40/AndroidStudioProjects/Memory/Application/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_3945d36b8051be6526e8543fda6d8927b90a4b30/classes.dex" />
-    </item>
-    <item
-        jar="/Users/appcreate40/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/jars/classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
-        <dex dex="/Users/appcreate40/AndroidStudioProjects/Memory/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.0.0_07f6ce07297a50067b87c140b1a35b309aabe13e/classes.dex" />
-    </item>
-    <item
-        jar="/Users/appcreate40/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/support-v13/24.0.0/jars/classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="c87270a9d828773c296fadde93e939c8190a6b1b">
-        <dex dex="/Users/appcreate40/AndroidStudioProjects/Memory/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-24.0.0_bf28233e7ddae1098cce853b71f21ad0ce8815b4/classes.dex" />
     </item>
 
 </items>
